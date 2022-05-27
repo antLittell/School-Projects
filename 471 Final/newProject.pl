@@ -1,4 +1,4 @@
-%  This Mini Expert System advises on what dog to get and is available.
+%  This Mini Expert System advises on what lizard to get and is available.
 
 % By saying top, the system begins.
 %  It will ask for Skin, Body length, Tongue length and if it is bipedal or not.
